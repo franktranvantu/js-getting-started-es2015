@@ -1,1 +1,1 @@
-Using the keyword `const` to create variables have a number of benefits including the ability to prevent the value from being reassigned.
+Using constants is are a best practice when assigning variables but what happens when you do actually want to reassign a value? That's where let comes in.
