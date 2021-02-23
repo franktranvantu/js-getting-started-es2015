@@ -1,7 +1,7 @@
-function square(x) {
+const square = (x) => {
     return x * x;
 }
 
-function cube(x) {
+const cube = (x) => {
     return square(x) * x;
 }

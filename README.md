@@ -1,1 +1,1 @@
-In this section we'll cover the basic syntax for arrow functions.
+Now that you've created an arrow function with no arguments, what does it look like with single and multiple arguments.
