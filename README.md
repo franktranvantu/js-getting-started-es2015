@@ -1,1 +1,1 @@
-Let's review the original way to declare a variable and how that differs with the modern let and const keywords.
+Using the keyword `const` to create variables have a number of benefits including the ability to prevent the value from being reassigned.
