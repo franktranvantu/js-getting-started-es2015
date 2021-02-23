@@ -1,1 +1,1 @@
-Now that you've created an arrow function with no arguments, what does it look like with single and multiple arguments.
+Arrow function syntax can be even more concise. In this video we'll modify existing arrow functions to be shorter.
