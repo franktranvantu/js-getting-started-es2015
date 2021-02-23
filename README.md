@@ -1,1 +1,3 @@
-Using constants is are a best practice when assigning variables but what happens when you do actually want to reassign a value? That's where let comes in.
+Using the var keyword in for loops can cause unexpected behavior. 
+
+In this section we'll see how let solves those issues.
