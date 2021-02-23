@@ -1,1 +1,1 @@
-Using the keyword `const` to create variables have a number of benefits including the ability to prevent the value from being reassigned.
+Using constants prevents values from being reassigned but how do they work with arrays and objects?
